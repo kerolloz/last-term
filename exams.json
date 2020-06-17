@@ -1,24 +1,24 @@
 {
   "exams": [
     {
-      "date": "2019-05-19",
-      "name": "Practical Exams"
+      "date": "2020-07-01",
+      "name": "Wireless Communication"
     },
     {
-      "date": "2019-12-19",
-      "name": "Graph Theory"
+      "date": "2020-07-05",
+      "name": "Artificial Intelligence"
     },
     {
-      "date": "2021-12-19",
-      "name": "Problem Solving"
+      "date": "2020-07-08",
+      "name": "Distributed Systems"
     },
     {
-      "date": "2025-02-19",
-      "name": "Dynamic Programming"
+      "date": "2020-07-12",
+      "name": "Computer Vision"
     },
     {
-      "date": "2020-01-26 18:43",
-      "name": "Machine Learning"
+      "date": "2020-07-15",
+      "name": "Arabization"
     }
   ]
 }
